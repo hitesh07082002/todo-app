@@ -13,7 +13,7 @@ npm-debug.log*
 
 
 # Ignore frontend and backend builds
-frontend/build/
+# frontend/build/
 backend/build/
 backend/dist/
 

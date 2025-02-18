@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+    "homepage": ".",
 
   "dependencies": {
     "@svgr/webpack": "^6.0.0",
