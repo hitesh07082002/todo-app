@@ -1,0 +1,33 @@
+/* src/styles/global.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  input, button, select, textarea {
+    font-size: 1rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #45A049;
+  }
+  
+  h2 {
+    color: #2c3e50;
+  }
+  

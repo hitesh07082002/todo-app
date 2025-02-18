@@ -1,0 +1,31 @@
+/* src/components/TaskList.css */
+.task-card {
+    background-color: #fff;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    border: 1px solid #dcdcdc;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .no-tasks {
+    color: #7f8c8d;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  
+  .edit-btn {
+    background-color: #3498db;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+    border-radius: 5px;
+  }
+  
+  .delete-btn {
+    background-color: #e74c3c;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+  }
+  
