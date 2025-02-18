@@ -143,13 +143,14 @@ Ensure you have the following installed:
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home](https://your-image-link.com/home.png)
+![Home Page](https://github.com/user-attachments/assets/0b3e74d4-1649-4acc-9f53-3d00a96c3c00)
 
 ### 🔹 Task Management
-![Tasks](https://your-image-link.com/tasks.png)
+![Task Management](https://github.com/user-attachments/assets/c391d9b5-88aa-43fc-925e-b56a00a994cc)
 
-### 🔹 Authentication
-![Login](https://your-image-link.com/login.png)
+### 🔹 Authentication (Login & Register)
+![Authentication](https://github.com/user-attachments/assets/f7a46564-ef45-4abf-b096-9450d282866f)
+
 
 ---
 
