@@ -3,7 +3,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: process.env.REACT_APP_API_URL || 'https://todo-app-two-pi-72.vercel.app', // ✅ Use .env or fallback
+  baseURL: process.env.REACT_APP_API_URL,
   withCredentials: true,
 });
 
